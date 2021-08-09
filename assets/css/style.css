@@ -1,15 +1,3 @@
-/**
-* Template Name: Presento - v2.0.0
-* Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
-
 body {
     font-family: "Open Sans", sans-serif;
     color: #444444;
@@ -503,7 +491,7 @@ section {
 
 .section-bg:before {
     content: "";
-    background: #004AAD;
+    background: #0b0c47;
     position: absolute;
     bottom: 60px;
     top: 60px;
